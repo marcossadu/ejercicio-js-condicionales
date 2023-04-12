@@ -6,6 +6,7 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Opera
 
 1. Antes de ejecutar "node ex6.js"; razona: qué vamos a ver por el terminal? Por qué ?
 
+Veremos el primer if ya que es el que se cumple , el segundo es falso 
 */
 
 if (4 > 3 && 6 > 5) {
